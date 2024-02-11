@@ -1,7 +1,5 @@
 # Nexter 
 
-You can access the live demo of Nexter [here](https://nexter-grid-project.vercel.app/).
-
 Nexter is a project I created while learning SCSS (Sassy Cascading Style Sheets) and exploring how to build a complete website layout using only CSS grid.
 
 I implemented an 8-grid column approach for the entire layout and utilized nested grids within each section for better organization.
