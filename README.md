@@ -1,6 +1,6 @@
 # Nexter 
 
-Nexter is a project I created while learning SCSS (Sassy Cascading Style Sheets) and exploring how to build a complete website layout using only CSS grid.
+Nexter is a project I created while learning SASS (Syntactically Awesome Style Sheets) and exploring how to build a complete website layout using only CSS grid.
 
 I implemented an 8-grid column approach for the entire layout and utilized nested grids within each section for better organization.
 
